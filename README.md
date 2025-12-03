@@ -61,6 +61,9 @@ The absence of strong aggregate effects does not imply malaria is irrelevant for
 
 Preventive vector control plays a critical role.
 
+**Contact**
+You can reach me at rangi.ho@gmail.com if you would like to verify the results or request a copy of the paper.
+
 Interventions must be targeted toward low-income high-burden countries.
 
 Malaria eradication should be treated as a development investment, not only a health policy.
