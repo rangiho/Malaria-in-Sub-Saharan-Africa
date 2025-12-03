@@ -57,6 +57,7 @@ Low-income countries experience the strongest gains, contradicting the historica
 Results highlight the importance of prevention-focused strategies and institutional capacity.
 
 **Interpretation**
+
 The absence of strong aggregate effects does not imply malaria is irrelevant for development. Instead:
 
 Preventive vector control plays a critical role.
@@ -66,4 +67,5 @@ Interventions must be targeted toward low-income high-burden countries.
 Malaria eradication should be treated as a development investment, not only a health policy.
 
 **Contact**
+
 You can reach me at rangi.ho@gmail.com if you would like to verify the results or request a copy of the paper.
